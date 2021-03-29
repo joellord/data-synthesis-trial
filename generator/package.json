@@ -1,0 +1,15 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joel Lord <joelphy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mysql8": "^2.17.3"
+  }
+}
